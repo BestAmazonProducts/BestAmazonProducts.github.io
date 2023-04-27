@@ -1,0 +1,118 @@
+.fejlec {
+    text-align: center;
+}
+h1 {
+    position: relative;
+    top: 14px;
+}
+#fizika {
+    font-size: 20px;
+    padding: 10px 10px;
+}
+
+h3 {
+    text-decoration: underline;
+    text-align: left
+}    
+.vonal {
+    background-color: black;
+    color: black;
+    height: 2px;
+}
+#windows {
+    font-size: 20px;
+    margin-right: 200px;
+    padding: 10px 10px;
+    font-weight: 400;
+}
+.resz_cim {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    padding: 4px;
+}
+#Lemez_Partíció {
+    font-size: 20px;
+    margin-right: 200px;
+    padding: 10px 10px;
+    font-weight: 400;
+}
+#Fajlrendszerek {
+    font-size: 20px;
+    padding: 10px 10px;
+    font-weight: 400;
+}
+#Fajlrendszerek li {
+    margin-right: 200px;
+}
+li {
+    padding: 4px;
+}
+
+.has_asztal {
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+}
+.has_asztal td {
+    border-style: solid;
+    border-width: 2px;
+    padding: 10px 10px;
+}
+.has_asztal th {
+    border-style: solid;
+    border-width: 3px;
+    padding: 10px 10px;
+    text-align: center;
+}
+#indit_tart {
+    font-size: 20px;
+    margin-right: 200px;
+    padding: 10px 10px;
+    font-weight: 400;
+}
+
+#raidek {
+    font-size: 20px;
+    margin-right: 200px;
+    padding: 10px 10px;
+    font-weight: 400;
+}
+.raid_kep {
+    border-style: solid;
+}
+.raid_kep_div {
+    text-align: center;
+    font-size: 25px;
+}
+#memoria_tipusok {
+    font-size: 20px;
+    margin-right: 200px;
+    padding: 10px 10px;
+    font-weight: 400;
+}
+#felhok {
+    font-size: 20px;
+    margin-right: 200px;
+    padding: 10px 10px;
+    font-weight: 400;
+}
+.felhok_kep_div {
+    text-align: center;
+    font-size: 25px;
+}
+.felhok_kep_div p {
+    position: relative;
+    bottom: 35px;
+}
+.felhok_kep_div img {
+    border-style: solid;
+}
+#git {
+    font-size: 20px;
+    margin-right: 200px;
+    padding: 10px 10px;
+    font-weight: 400;
+}
+.parancs {
+    font-family:'fantasy';
+}
